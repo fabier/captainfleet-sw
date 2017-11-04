@@ -1,2 +1,2 @@
 # captainfleet-sw
-Source code for devi
+Source code for devices
